@@ -1,0 +1,6 @@
+*.pem
+*.bash*
+*.cache*
+.gitconfig
+*.ssh*
+*.viminfo

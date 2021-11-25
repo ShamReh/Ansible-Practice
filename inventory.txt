@@ -1,0 +1,3 @@
+[myservers]
+ansible-target-1 ansible_host=54.194.180.89 ansible_connection=ssh ansible_user=ec2-user
+ansible-target-2 ansible_host=3.249.24.69 ansible_connection=ssh ansible_user=ec2-user
